@@ -1,3 +1,4 @@
+![Network](https://github.com/user-attachments/assets/5532ea82-5a16-43e9-bcfc-c6f916259151)
 # Network Configuration Simulation with DMZ and Multiple Departments
 
 ## Project Description
